@@ -4,7 +4,7 @@
 ![Schematic](schema.png)
 
 # PCB
-![PCB]((pcb.png)
+![PCB](pcb.png)
 
 # Render front
 ![Render](render-front.png)
